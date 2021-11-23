@@ -30,7 +30,7 @@ To install and run the Hololens application:
 - Go to the Device protal (Your hololens' IPv4 addres) on you PC and login with your credentials.
 - Now on the left panel goto Views > Apps.
 - Under Deploy apps, choose local storage and click choose file.
-- Browse to the projects `/Builds/AppPackages/OKS-Study` directory, open the `OKS-Study_x.x.x.x_ARM64_Test` folder and choose the `OKS-Study_x.x.x.x_ARM64.appx` file.
+- Browse to the projects `/Builds/x.x.x.x/AppPackages/OKS-Study` directory, open the `OKS-Study_x.x.x.x_ARM64_Test` folder and choose the `OKS-Study_x.x.x.x_ARM64.appx` file.
 - Click Install
 - You're all set!
 
