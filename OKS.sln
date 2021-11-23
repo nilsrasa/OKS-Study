@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeSample", "QRCodeSample.csproj", "{2C5A78E7-85D7-ADCE-E269-CD8D3F0DB7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.VCRTForwarders.140", "Microsoft.VCRTForwarders.140.csproj", "{FC059FA2-C316-C5D6-A66D-727737941E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.MixedReality.QR.Editor", "Microsoft.MixedReality.QR.Editor.csproj", "{1337A8D7-ED20-4F09-7DD1-A742C930F290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5A78E7-85D7-ADCE-E269-CD8D3F0DB7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5A78E7-85D7-ADCE-E269-CD8D3F0DB7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5A78E7-85D7-ADCE-E269-CD8D3F0DB7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5A78E7-85D7-ADCE-E269-CD8D3F0DB7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC059FA2-C316-C5D6-A66D-727737941E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC059FA2-C316-C5D6-A66D-727737941E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC059FA2-C316-C5D6-A66D-727737941E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC059FA2-C316-C5D6-A66D-727737941E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1337A8D7-ED20-4F09-7DD1-A742C930F290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1337A8D7-ED20-4F09-7DD1-A742C930F290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1337A8D7-ED20-4F09-7DD1-A742C930F290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1337A8D7-ED20-4F09-7DD1-A742C930F290}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
